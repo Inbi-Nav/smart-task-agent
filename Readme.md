@@ -1,2 +1,3 @@
-# 📝 Smart Task Agent – Intelligent Task Management
-An AI-powered agent designed to organize, prioritize, and manage tasks intelligently.
+# Smart To-Do Agent
+
+Individual rebuild of a To-Do app with automation and an AI agent.

@@ -1,0 +1,26 @@
+{
+  "name": "smart-task-agent",
+  "version": "1.0.0",
+  "description": "Individual rebuild of a To-Do app with automation and an AI agent.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Inbi-Nav/smart-task-agent.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Inbi-Nav/smart-task-agent/issues"
+  },
+  "homepage": "https://github.com/Inbi-Nav/smart-task-agent#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.4.19"
+  }
+}
