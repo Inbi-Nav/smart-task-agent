@@ -1,5 +1,7 @@
 {
     "name": "smart-task-agent/app",
+    "description": "Smart TODO agent built with PHP MVC",
+    "license": "proprietary",
     "type": "project",
     "require": {
         "vlucas/phpdotenv": "^5.8",
